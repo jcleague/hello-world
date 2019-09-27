@@ -1,8 +1,4 @@
 # hello-world
 My first GitHub repository
 
-I'm pulling my hair out.
-
-But, thankfully, Steve is sitting beside me for moral support.
-
-Yay!!!
+Biggest question: how to have 2 GitHub accounts and alternate between them on your desktop????
